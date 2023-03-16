@@ -415,7 +415,7 @@ where
                     "0x94365e3a8c0b35089c1d1195081fe7489b528a84b22199c916180db8b28ade7f" => {
                         "etclive"
                     }
-                    _ => "ethlive",
+                    _ => "mainnet",
                 }
             }
             "0xa3c565fc15c7478862d50ccd6561e3c06b24cc509bf388941c25ea985ce32cb9" => "kovan",
